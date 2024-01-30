@@ -1,10 +1,7 @@
-// main file
-import "./App.css";
-import Introduc from "./components/Introduc";
 function App() {
   return (
-    <div>
-      <Introduc />
+    <div className='App'>
+      <h1>Test</h1>
     </div>
   );
 }
